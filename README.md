@@ -1,4 +1,4 @@
-<h1 align="center">Oii, eu sou a Mari Andrade!</h1>
+<h1 align="center">Hi, I'm Mari Andrade!</h1>
 <div align="center">
   <a href="https://github.com/mariandr4de">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
