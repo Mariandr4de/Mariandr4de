@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/mariandr4de">
   <img border-radius height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" width="48%" src="https://user-images.githubusercontent.com/104591781/184870316-073377bb-a332-4a28-8d70-41ee1ba4fbba.svg"/>
+<img height="180em" width="48%" src="https://user-images.githubusercontent.com/104591781/184894132-0c6af1b1-1ddc-4fff-82ff-4f7911ab71a7.svg"/>
 </div>
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +25,7 @@
 
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mariandrade8115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-andrade-43928a248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mariandr4de/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
