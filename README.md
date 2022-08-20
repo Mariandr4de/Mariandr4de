@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Mari Andrade!</h1>
 <div align="center">
   <a href="https://github.com/mariandr4de">
-  <img border-radius height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" width="48%" src="https://user-images.githubusercontent.com/104591781/184894132-0c6af1b1-1ddc-4fff-82ff-4f7911ab71a7.svg"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="46%" src="https://user-images.githubusercontent.com/104591781/184894132-0c6af1b1-1ddc-4fff-82ff-4f7911ab71a7.svg"/>
 </div>
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,6 +12,7 @@
 <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <img align="center" alt="Node-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
