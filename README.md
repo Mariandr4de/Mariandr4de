@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Mari Andrade!</h1>
 <div align="center">
   <a href="https://github.com/mariandr4de">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://user-images.githubusercontent.com/104591781/184894132-0c6af1b1-1ddc-4fff-82ff-4f7911ab71a7.svg"/>
+  <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="47.9%" src="https://user-images.githubusercontent.com/104591781/184894132-0c6af1b1-1ddc-4fff-82ff-4f7911ab71a7.svg"/>
 </div>
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
