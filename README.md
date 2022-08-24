@@ -30,11 +30,12 @@
  
  
 </div>
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://activity-graph.herokuapp.com/graph?username=mariandr4de&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
 
 
 </div>
+-->
 <!--
 **Mariandr4de/Mariandr4de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
