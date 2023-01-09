@@ -35,21 +35,20 @@
   ##
  
 <div align="center"> 
-
+<!--
   ![Snake animation](https://github.com/mariandr4de/mariandr4de/blob/output/github-contribution-grid-snake.svg)
-
+-->
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mariandrade8115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariandr4de/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
- <div align="center"> 
+ <div align="center"> <!--
   <img src="https://activity-graph.herokuapp.com/graph?username=mariandr4de&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
 
 
-</div>
-
+</div >
 <!--
 **Mariandr4de/Mariandr4de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
