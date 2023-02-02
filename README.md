@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Mariandr4de" alt="mariandr4de's visitors"/>
 <h1 align="center">Hi, I'm Mari Andrade! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30></h1>
  
-<!--<div align="center">
+<!--<div align="center"> 
   <a href="https://github.com/mariandr4de" >
   <img width="47.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandr4de&layout=compact&langs_count=7&theme=dracula"/> 
 </div> -->
