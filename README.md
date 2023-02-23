@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Mariandr4de" alt="mariandr4de's visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MariAndr4de" alt="mariandr4de's visitors"/>
 <h1 align="center">Hi, I'm Mari Andrade! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30></h1>
  
 <!--<div align="center"> 
@@ -44,24 +44,3 @@
  
  
 </div>
- <div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=mariandr4de&bg_color=0D1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
-
-
-</div >
-<!--
-**Mariandr4de/Mariandr4de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
