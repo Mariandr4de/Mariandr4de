@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MariAndr4de" alt="MariAndr4de's visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MarianaAndr4de" alt="MariAndr4de's visitors"/>
 <h1 align="center">Hi, I'm Mari Andrade! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30></h1>
  
 <!--<div align="center"> 
