@@ -36,7 +36,7 @@
  
 <div align="center"> 
   
-  ![Snake animation](https://github.com/mariandr4de/mariandr4de/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mariandr4de/Mariandr4de/blob/output/github-contribution-grid-snake.svg)
   
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mariandrade8115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
